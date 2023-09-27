@@ -33,8 +33,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/Lingeswaran04/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/119103865/1fc28ba9-8647-4b74-aea5-3d0bc91890d5)
+
+
+### Name:LINGESWARAN.K
+### Register Number:212222110022
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
